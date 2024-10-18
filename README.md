@@ -1,7 +1,7 @@
 ### Heeey! I'm Silvia Silva! 
 (_Aspiring Data Analytics Engineer_)
 
-Currently diving into the world of data engineering, learning and working with tools like Python, SQL, Cloud Platforms, Data Visualization... Finding out the power of data—and LOVING IT. Always staying curious! 
+Currently diving into the world of Data Engineering, Analytics and BI, learning and working with tools like Python, SQL, Cloud Platforms, Data Visualization... Finding out the power of data—and LOVING IT. Always staying curious! 
 
 **"In God we trust, all others must bring data." --** _W. Edwards Deming_
 <div style="display: inline_block"><br>
